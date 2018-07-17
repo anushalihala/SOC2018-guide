@@ -15,8 +15,22 @@ I am naming the file 'first_program.py'.
 
 ### Running your program
 
-
 1. Open your command line. (On Windows you can search for cmd)
 
-1. Navigate to your folder
+[]
+[]
+
+2. Navigate to your folder in the command line. Below are images of navigating both a file manager and the cmd for comparison.
+
+*Shortcut: Instead of all those 'cd's, you can directly go to the path in one go*
+
+3. To run your program, enter 'python first_program.py' into the command line.
+
+*Note: In case you get an error like the following*
+
+*Try following this guide*
+
+### Bonus
+
+
 
