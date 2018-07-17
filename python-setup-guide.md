@@ -19,9 +19,13 @@ I am naming the file 'first_program.py'.
 
 ![alt text](https://github.com/anushalihala/SOC2018-guide/blob/master/cmd_search.png)
 
-[]
-
 2. Navigate to your folder in the command line. Below are images of navigating both a file manager and the cmd for comparison.
+
+![alt text](https://github.com/anushalihala/SOC2018-guide/blob/master/cd1.png)
+
+![alt text](https://github.com/anushalihala/SOC2018-guide/blob/master/cd2.jpg)
+
+![alt text](https://github.com/anushalihala/SOC2018-guide/blob/master/cd3.jpg)
 
 *Shortcut: Instead of all those 'cd's, you can directly go to the path in one go*
 
