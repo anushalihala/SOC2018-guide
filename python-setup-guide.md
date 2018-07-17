@@ -17,7 +17,7 @@ I am naming the file 'first_program.py'.
 
 1. Open your command line. (On Windows you can search for cmd)
 
-![alt text](https://github.com/anushalihala/SOC2018-guide/blob/master/cmd_search.png =50x50)
+![alt text](https://github.com/anushalihala/SOC2018-guide/blob/master/cmd_search.png)
 
 []
 
